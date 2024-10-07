@@ -1,0 +1,28 @@
+H:\13\2024_09_23_bankrablás\2024_09_23_bankrablás\bin\Debug\2024_09_23_bankrablás.exe.config
+H:\13\2024_09_23_bankrablás\2024_09_23_bankrablás\bin\Debug\2024_09_23_bankrablás.exe
+H:\13\2024_09_23_bankrablás\2024_09_23_bankrablás\bin\Debug\2024_09_23_bankrablás.pdb
+H:\13\2024_09_23_bankrablás\2024_09_23_bankrablás\obj\Debug\2024_09_23_bankrablás.csproj.AssemblyReference.cache
+H:\13\2024_09_23_bankrablás\2024_09_23_bankrablás\obj\Debug\2024_09_23_bankrablás.csproj.CoreCompileInputs.cache
+H:\13\2024_09_23_bankrablás\2024_09_23_bankrablás\obj\Debug\2024_09_23_bankrablás.exe
+H:\13\2024_09_23_bankrablás\2024_09_23_bankrablás\obj\Debug\2024_09_23_bankrablás.pdb
+C:\Users\Alex\Desktop\minden kivéve a lomtár\közgáz\13\bankrablás\2024_09_23_bankrablás\2024_09_23_bankrablás\bin\Debug\2024_09_23_bankrablás.exe.config
+C:\Users\Alex\Desktop\minden kivéve a lomtár\közgáz\13\bankrablás\2024_09_23_bankrablás\2024_09_23_bankrablás\bin\Debug\2024_09_23_bankrablás.exe
+C:\Users\Alex\Desktop\minden kivéve a lomtár\közgáz\13\bankrablás\2024_09_23_bankrablás\2024_09_23_bankrablás\bin\Debug\2024_09_23_bankrablás.pdb
+C:\Users\Alex\Desktop\minden kivéve a lomtár\közgáz\13\bankrablás\2024_09_23_bankrablás\2024_09_23_bankrablás\obj\Debug\2024_09_23_bankrablás.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\minden kivéve a lomtár\közgáz\13\bankrablás\2024_09_23_bankrablás\2024_09_23_bankrablás\obj\Debug\2024_09_23_bankrablás.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\minden kivéve a lomtár\közgáz\13\bankrablás\2024_09_23_bankrablás\2024_09_23_bankrablás\obj\Debug\2024_09_23_bankrablás.exe
+C:\Users\Alex\Desktop\minden kivéve a lomtár\közgáz\13\bankrablás\2024_09_23_bankrablás\2024_09_23_bankrablás\obj\Debug\2024_09_23_bankrablás.pdb
+C:\Users\Alex\Desktop\minden kivéve a lomtár\közgáz\13\2024_09_23_bankrablás\2024_09_23_bankrablás\bin\Debug\2024_09_23_bankrablás.exe.config
+C:\Users\Alex\Desktop\minden kivéve a lomtár\közgáz\13\2024_09_23_bankrablás\2024_09_23_bankrablás\bin\Debug\2024_09_23_bankrablás.exe
+C:\Users\Alex\Desktop\minden kivéve a lomtár\közgáz\13\2024_09_23_bankrablás\2024_09_23_bankrablás\bin\Debug\2024_09_23_bankrablás.pdb
+C:\Users\Alex\Desktop\minden kivéve a lomtár\közgáz\13\2024_09_23_bankrablás\2024_09_23_bankrablás\obj\Debug\2024_09_23_bankrablás.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\minden kivéve a lomtár\közgáz\13\2024_09_23_bankrablás\2024_09_23_bankrablás\obj\Debug\2024_09_23_bankrablás.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\minden kivéve a lomtár\közgáz\13\2024_09_23_bankrablás\2024_09_23_bankrablás\obj\Debug\2024_09_23_bankrablás.exe
+C:\Users\Alex\Desktop\minden kivéve a lomtár\közgáz\13\2024_09_23_bankrablás\2024_09_23_bankrablás\obj\Debug\2024_09_23_bankrablás.pdb
+C:\Users\Alex\Downloads\2024_09_23_bankrablás\2024_09_23_bankrablás\bin\Debug\2024_09_23_bankrablás.exe.config
+C:\Users\Alex\Downloads\2024_09_23_bankrablás\2024_09_23_bankrablás\bin\Debug\2024_09_23_bankrablás.exe
+C:\Users\Alex\Downloads\2024_09_23_bankrablás\2024_09_23_bankrablás\bin\Debug\2024_09_23_bankrablás.pdb
+C:\Users\Alex\Downloads\2024_09_23_bankrablás\2024_09_23_bankrablás\obj\Debug\2024_09_23_bankrablás.csproj.AssemblyReference.cache
+C:\Users\Alex\Downloads\2024_09_23_bankrablás\2024_09_23_bankrablás\obj\Debug\2024_09_23_bankrablás.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Downloads\2024_09_23_bankrablás\2024_09_23_bankrablás\obj\Debug\2024_09_23_bankrablás.exe
+C:\Users\Alex\Downloads\2024_09_23_bankrablás\2024_09_23_bankrablás\obj\Debug\2024_09_23_bankrablás.pdb
